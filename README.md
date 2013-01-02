@@ -39,7 +39,7 @@
 
 リポジトリーに含まれる全てのファイルはファイル中に特別に記載がある場合もそれを無効とし、全て以下のライセンスで配布するものとします。
 
-* (CC0)[http://creativecommons.org/publicdomain/zero/1.0/]
+* [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 この措置は、企画者(@USAGI_WRP)が当時はCC0やパブリックドメインについて日本国内法に準拠しない可能性等を懸念していて、このリポジトリーの公開前に作成した文書本体データの内部ではCC-BY-NC-SAを採用すると記述している点に対するものです。
 実際には現在こうして公開する段階では、最終的にこのリポジトリーは全てCC0とする事にしましたので、しつこくその旨記述致します。
@@ -52,7 +52,7 @@
 ## 企画者
 
 * 伊藤 兎 // Usagi Ito <usagi@WonderRabbitProject.net>
-    * Website  : (Wonder Rabbit Project)[http://www.WonderRabbitProject.net/]
+    * Website  : [Wonder Rabbit Project](http://www.WonderRabbitProject.net/)
     * Twitter  : @USAGI_WRP
     * Facebook : usagi.wrp
     * Google+  : 109182233705111057045
