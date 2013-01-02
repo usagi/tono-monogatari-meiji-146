@@ -49,10 +49,11 @@
 （※原書は2013年よりパブリックドメイン）
 
 
-## 企画者連絡先
+## 企画者
 
-Name    : 伊藤 兎 // Usagi Ito
-        :  in Wonder Rabbit Project
-Twitter : @USAGI_WRP
-E-Mail  : usagi@WonderRabbitProject.net
-Web Site: http://www.WonderRabbitProject.net/
+* 伊藤 兎 // Usagi Ito <usagi@WonderRabbitProject.net>
+    * Website  : (Wonder Rabbit Project)[http://www.WonderRabbitProject.net/]
+    * Twitter  : @USAGI_WRP
+    * Facebook : usagi.wrp
+    * Google+  : 109182233705111057045
+
